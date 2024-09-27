@@ -1,0 +1,23 @@
+import { ejercicio1 } from "./ejercicio1.js";
+import { ejercicio2 } from "./ejercicio2.js";
+import { ejercicio3 } from "./ejercicio3.js";
+import { ejercicio4 } from "./ejercicio4.js";
+import { ejercicio5 } from "./ejercicio5.js";
+import { ejercicio6 } from "./ejercicio6.js";
+import { ejercicio7 } from "./ejercicio7.js";
+import { ejercicio8 } from "./ejercicio8.js";
+import { ejercicio9 } from "./ejercicio9.js";
+import { ejercicio10 } from "./ejercicio10.js";
+import { ejericio11 } from "./ejercicio11.js";
+
+ejercicio1();
+ejercicio2();
+ejercicio3();
+ejercicio4();
+ejercicio5();
+ejercicio6();
+ejercicio7();
+ejercicio8();
+ejercicio9();
+ejercicio10();
+ejericio11();

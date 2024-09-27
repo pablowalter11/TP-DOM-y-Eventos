@@ -1,0 +1,19 @@
+.verde{
+    color: green;   
+}
+
+.azul{
+    color: blue;
+}
+
+.fondoBlanco{
+    background-color: white;
+}
+
+#divCambioColor{
+    background-color: white;
+}
+
+.ninja{
+    visibility: hidden;
+}
